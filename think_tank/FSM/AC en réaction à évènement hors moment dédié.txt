@@ -1,0 +1,5 @@
+Certaines AC sont à jouer en réaction à un évènement.
+
+Exemple : 
+
+Public Disgrace 	A jouer juste après qu'un autre joueur a choisi sa SC. Forcez le à rendre sa SC et en choisir une autre.

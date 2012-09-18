@@ -1,0 +1,1 @@
+Une carte action modifie completement la phase de distribution des AC ! Au lieu de distribuer normallement les AC, le joueur qui joue la carte récupère 1 AC par joueur à table et les donne face cachée à chaque joueur.
